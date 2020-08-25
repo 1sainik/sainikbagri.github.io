@@ -1,0 +1,16 @@
+css(casscading style sheet)
+type or way to apply css in html page.
+{1}inline css
+{2}internal css
+{3}external css
+#I.D
+.class
+<html>
+<head>
+<title> inline css</title>
+</head>
+<body>
+</body>
+
+
+</html>

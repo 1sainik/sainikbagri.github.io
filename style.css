@@ -1,0 +1,90 @@
+*
+{
+margin:0;
+padding:0;
+font-family:century Gothic; 
+}
+header
+{
+background-image:url(images/cover1.jpg);
+height:100vh;
+background-size:cover;
+background-position:center;
+}
+img
+{
+opacity:1.0;
+}
+
+img:hover
+{
+opacity:1.0;
+}
+
+ul{
+float:right;
+list-style-type:none;
+margin-top:25px;
+color:yellow;
+}
+ul li
+{
+display:inline-block;
+
+}
+ul li a
+{
+text-decoration:none;
+color:#C4FFFF;
+padding:5px 20px;
+border:1 px solid #333333 ;
+transition:0.6s ease;
+}
+ul li a:hover
+{
+background-color:#fff;
+color:#FF9933;
+}
+
+
+.title
+{
+width:190px;
+height:200px;
+margin-top:15px;
+margin-left:10px;
+position:absolute;
+background-color:yellow;
+border-radius:50px 25px 25px 25px;
+background-image:url(images/final.jpg);
+background-repeat:no-repeat;
+box-shadow:10px green;
+}
+.title:hover
+{
+width:190px;
+height:200px;
+margin-top:15px;
+margin-left:10px;
+position:absolute;
+background-color:yellow;
+border-radius:50px 25px 25px 25px;
+background-image:url(images/.jpg);
+	
+	
+}
+.logo
+{
+width:400px;
+height:70px;
+position:absolute;
+background-color:#DFDF00;
+margin-left:295px;
+margin-top:80px;
+border-radius:100px;		
+}
+.logo:hover
+{
+width:500px;
+background-color:skyblue;
+}
